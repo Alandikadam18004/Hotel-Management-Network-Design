@@ -70,7 +70,7 @@ This project simulates the **network infrastructure of a 3-floor hotel** using C
 
 - `project2.pkt` – Cisco Packet Tracer simulation file
 - `hoteltopology.png` – Screenshot of the floor-based topology
-
+- `Project_report.pdf`- Documentation
 ---
 
 ## 💼 Skills Demonstrated
